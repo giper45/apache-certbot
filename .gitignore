@@ -1,4 +1,4 @@
-data/certbot
+data/certbot/**
 !data/certbot/www/.well-known/acme-challenge/.keep
 init-letsencrypt.sh
 data/apache/extra/httpd-ssl.conf
